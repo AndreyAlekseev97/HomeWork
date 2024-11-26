@@ -7,9 +7,6 @@ my_dict ['Dead Island'] = "April 2023"
 my_dict.update({'Redfal': 'May 2023',
                 'Diablo 4': 'June 2023'})
 del my_dict['Hogwarts Legacy']
-print(my_dict)
-
-print(my_dict)
 a = my_dict.pop ('Dead Space Remake')
 print(my_dict)
 print(a)

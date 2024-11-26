@@ -10,9 +10,9 @@ del my_dict['Hogwarts Legacy']
 print(my_dict)
 
 print(my_dict)
-my_dict.pop ('Dead Space Remake')
+a = my_dict.pop ('Dead Space Remake')
 print(my_dict)
-
+print(a)
 # 2 task
 my_set = {1, 2 ,3, 1, 2, 3, 'a', 'b', 'c', 'a', 'b', 'c'}
 print(my_set)
